@@ -1,6 +1,12 @@
 # VBA-Challenge
 Module 2 Challenge - VBA
 
+My homework has presented an unexpected barrage of learning skills. I have attached the screen shots for the alphabetizing stocks
+file of our homework. I am aware that was not the submission you requested, however, the main stock data keeps crashing my Excel 
+program on every attempt. I submit this as a means to show as much of my work as possible. I will re-attempt to run my code on the 
+main stock data again tomorrow. Thank you for your consideration of this homework in advance.
+
+
 For my VBA Challenge homework I did recieve help from tutor, Jesse Wright. He helped me think through my formatting
 to get my code applied to every sheet. He did not tell me the answer to activate the worksheets, but helped me process 
 the reasoning to get there.
